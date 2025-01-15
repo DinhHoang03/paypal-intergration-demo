@@ -1,0 +1,8 @@
+paypal:
+  client-id: AXU_yvKPY6X89frUzdHb7E-CqVbil6teRCdFMWKWOtcumDDlM11eCT0J99cAyRuu-A5r4vBUBPwmXLmZ
+  client-secret: EKzIoy2zJvO4aM_xZ2_5mBonNaPOoZ_SfuO0I3NrPIBjQ5Y9hLyHcydOzpVQ-1jLVhL82kDi4iEmUSep
+  mode: sandbox #Use 'sandbox' for testing or 'live' for production
+spring:
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
